@@ -37,7 +37,7 @@ git clone https://github.com/gnoviawan/fast-api-electron-js.git
 change directory to cloned git
 
 ```shell
-cd fast-api-electron-js
+cd fast-api-electron-electron
 ```
 
 install all python dependencies
